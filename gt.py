@@ -1,7 +1,7 @@
 import time
 
 print("Bem-vindo ao gerador de tabuada!")
-time.sleep(2)
+time.sleep(1.5)
 
 tabuada = int(input("Digite um número para ver a tabuada: "))
 print(f"Tabuada do {tabuada}:")
