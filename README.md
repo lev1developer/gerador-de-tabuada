@@ -1,6 +1,6 @@
 # Gerador de Tabuada
 
-Agora não tem mais desculpa pra dizer que não sabe a tabuadakkkkkkkkkk
+Agora não tem mais desculpa pra dizer que não saber a tabuada
 
 ## Funcionalidades
 
